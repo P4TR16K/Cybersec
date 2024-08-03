@@ -1,2 +1,2 @@
 # Cybersec
-My dump of cybersec and relatives
+My dump of cybersec
