@@ -1,5 +1,4 @@
-Olá, eu sou o Patrick Pimenta.
-
+Olá, me chamo Patrick Pimenta.
 Sou formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em segurança da informação, que é o meu foco. No geral, com profundo interesse em tecnologia e dedicação à resolução de problemas complexos.
 
 Objetivo
